@@ -28,7 +28,7 @@ pip install librosa matplotlib
 
 ## Audio File
 
-The audio file used for this assignment is **Main_kepler_star_KIC12268220C.mp3**, sourced from NASA's website. This file is located in the parent directory of the code file in Google Colab.
+The audio file used for this assignment is **Main_kepler_star_KIC12268220C.mp3**, sourced from NASA's website. This file is located in the same directory as the notebook in Google Colab.
 
 ## Colab Notebook
 
