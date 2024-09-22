@@ -45,6 +45,7 @@ In this assignment, the following audio features are extracted:
 3. **Short-Time Fourier Transform (STFT)**: A sequence of Fourier transforms of a windowed signal.
 4. **Beat Tracking**: Detection of the tempo and beats in the audio signal.
 5. **Constant-Q Transform (CQT)**: A time-frequency representation that provides a better representation of musical notes.
+6. **MFCCs**: Mel-Frequency Cepstral Coefficients used to represent the power spectrum of sound.
 
 ## Quick Summary of Steps
 
@@ -54,6 +55,7 @@ In this assignment, the following audio features are extracted:
 4. Extract and display the spectrogram and Mel-scaled spectrogram.
 5. Perform beat tracking to identify the tempo and beats.
 6. Compute and visualize the Constant-Q Transform (CQT).
+7. Calculate and display MFCCs (Mel-Frequency Cepstral Coefficients).
 
 ## Usage
 
