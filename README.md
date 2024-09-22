@@ -23,7 +23,7 @@ This repository contains the code and resources for a feature engineering assign
 You can install the required libraries using pip:
 
 ```bash
-pip install librosa matplotlib
+!pip install librosa numpy matplotlib
 ```
 
 ## Audio File
