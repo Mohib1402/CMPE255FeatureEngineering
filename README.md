@@ -34,7 +34,7 @@ The audio file used for this assignment is **Main_kepler_star_KIC12268220C.mp3**
 
 The main analysis is performed in a Google Colab notebook. You can access the notebook at the following link:
 
-[Feature Engineering Notebook](LINK_TO_YOUR_COLAB_NOTEBOOK)
+[Feature Engineering Notebook](https://github.com/Mohib1402/CMPE255FeatureEngineering/blob/main/FeatureEngineering.ipynb)
 
 ## Features Extracted
 
