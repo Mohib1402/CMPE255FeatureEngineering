@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the code and resources for a feature engineering assignment focused on audio analysis. The main objective of this assignment is to apply various audio feature extraction techniques using the `librosa` library in Python.
+This repository contains the code and resources for a feature engineering assignment focused on audio analysis using multiple audio files. The main objective of this assignment is to apply various audio feature extraction techniques using the `librosa` library in Python on 5 different audio files.
 
 ## Table of Contents
 
@@ -28,7 +28,15 @@ You can install the required libraries using pip:
 
 ## Audio File
 
-The audio file used for this assignment is **Main_kepler_star_KIC12268220C.mp3**, sourced from NASA's website. This file is located in the same directory as the notebook in Google Colab.
+The audio files used for this assignment include the following:
+
+1. **1 Kepler Star KIC12268220C.mp3**
+2. **2 Kepler Star KIC7671081B.mp3**
+3. **3 NASA - Whistler Waves.mp3**
+4. **4 Parker Solar Probe - Whistler Mode Waves 2.mp3**
+5. **5 Juno Mission Europa Flyby.mp3**
+
+Make sure these files are placed in the appropriate directory (same directory as the Colab notebook).
 
 ## Colab Notebook
 
@@ -49,7 +57,7 @@ In this assignment, the following audio features are extracted:
 
 ## Quick Summary of Steps
 
-1. Load the audio file into the Colab environment.
+1. In this assignment, the following audio features are extracted for each of the 5 audio files:
 2. Compute the Short-Time Fourier Transform (STFT) of the audio signal.
 3. Generate the Mel-scaled spectrogram using the STFT.
 4. Extract and display the spectrogram and Mel-scaled spectrogram.
@@ -60,5 +68,5 @@ In this assignment, the following audio features are extracted:
 ## Usage
 
 1. Open the provided Google Colab notebook.
-2. Ensure the audio file is accessible in the specified path.
+2. Ensure the audio files are accessible in the specified path.
 3. Run the cells in the notebook to extract the features.
